@@ -4,7 +4,7 @@ This project compares distributed processing with PySpark against single-machine
 
 ## Contents
 
-- Notebook: [TestSpark.ipynb](Sale_Analysis.ipynb)
+- Notebook: [Sale_Analysis.ipynb](Sale_Analysis.ipynb)
 - Dataset: [grocerySale.csv](grocerySale.csv)
 
 ## Requirements
@@ -17,7 +17,7 @@ This project compares distributed processing with PySpark against single-machine
 
 ## Run the notebook
 
-1. Open [TestSpark.ipynb](Sale_Analysis.ipynb) in VS Code or Jupyter.
+1. Open [Sale_Analysis.ipynb](Sale_Analysis.ipynb) in VS Code or Jupyter.
 2. Run cells in order from top to bottom.
 3. The notebook includes both PySpark and pandas sections, plus visualizations.
 
