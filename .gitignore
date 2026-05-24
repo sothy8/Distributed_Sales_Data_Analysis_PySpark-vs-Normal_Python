@@ -1,1 +1,50 @@
+# Documents
 TP8.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+venv/
+env/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and outputs
+*.parquet
+*.csv
+*.tsv
+*.json
+*.pickle
+*.pkl
+*.npz
+*.npy
+*.feather
+*.h5
+*.hdf5
+*.sqlite
+*.db
+*.log
+*.out
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+*.swp
+*~
